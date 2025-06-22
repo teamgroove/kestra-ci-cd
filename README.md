@@ -2,7 +2,7 @@
 
 This repository explains several ways of implementing a CI/CD pipeline for various kinds of workflows.
 
-## CI/CD with GitHub Actions, yo. better! next, yoyo
+## CI/CD with GitHub Actions, yo. better! next, yoyoyo
 
 This repository provides an end-to-end example of how you can use the [deploy](https://github.com/marketplace/actions/kestra-deploy-action) and [validate](https://github.com/marketplace/actions/kestra-validate-action) GitHub Actions. 
 
