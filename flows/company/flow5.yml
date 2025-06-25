@@ -1,0 +1,6 @@
+id: flow4
+namespace: company
+tasks:
+  - id: iac
+    type: io.kestra.plugin.core.log.Log
+    message: Runs, when new ! Hello from {{ flow.id }} in {{ flow.namespace }}
