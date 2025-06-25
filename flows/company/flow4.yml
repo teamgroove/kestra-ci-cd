@@ -3,4 +3,4 @@ namespace: company
 tasks:
   - id: iac
     type: io.kestra.plugin.core.log.Log
-    message: Wooha Hello from {{ flow.id }} in {{ flow.namespace }}
+    message: Wooha Yo! Hello from {{ flow.id }} in {{ flow.namespace }}
