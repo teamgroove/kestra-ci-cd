@@ -1,5 +1,5 @@
 id: flow1
-namespace: myrootnamespace
+namespace: company
 tasks:
   - id: iac
     type: io.kestra.plugin.core.log.Log
